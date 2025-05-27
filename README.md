@@ -1,4 +1,4 @@
-# SQL Capstone Project – Your Name
+# SQL Capstone Project – Salem Al Zoobi (salemalw)
 
 ## Task 1: Academic Management System  
 [View Output on SQL Fiddle](https://sqlfiddle.com/postgresql/online-compiler?id=10b1d414-1cef-4351-94c3-adf9ab229838)
